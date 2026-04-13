@@ -1,0 +1,35 @@
+Date: 1/8/2025
+Time: 11:18
+Phone Number: +919790309613
+Message: ⚠️ Alert! Unusual activity detected on campus. Immediate action is required. Check the recorded video for details.Video saved at: C:\Users\taras\OneDrive\Desktop\AIML_COURSE\campus monitoring\incident_videos\incident_1754027318.mp4
+--------------------
+Date: 1/8/2025
+Time: 11:20
+Phone Number: +919790309613
+Message: ⚠️ Alert! Unusual activity detected on campus. Immediate action is required. Check the recorded video for details.Video saved at: C:\Users\taras\OneDrive\Desktop\AIML_COURSE\campus monitoring\incident_videos\incident_1754027422.mp4
+--------------------
+Date: 1/8/2025
+Time: 11:35
+Phone Number: +919790309613
+Message: ⚠️ Alert! Unusual activity detected on campus. Immediate action is required. Check the recorded video for details.Video saved at: C:\Users\taras\OneDrive\Desktop\AIML_COURSE\campus monitoring\incident_videos\incident_1754028322.mp4
+--------------------
+Date: 6/10/2025
+Time: 14:17
+Phone Number: +919790309613
+Message: ⚠️ Alert! Unusual activity detected on campus. Immediate action is required. Check the recorded video for details.Video saved at: C:\Users\taras\OneDrive\Desktop\AIML_COURSE\campus monitoring\incident_videos\incident_1759740422.mp4
+--------------------
+Date: 26/3/2026
+Time: 8:58
+Phone Number: +917382444567
+Message: ⚠️ Alert! Unusual activity detected on campus. Immediate action is required. Check the recorded video for details.Video saved at: C:\Users\Gamana\OneDrive\Documents\Python AIML\CAMERA MONITORING\incident_videos\incident_1774495715.mp4
+--------------------
+Date: 26/3/2026
+Time: 9:0
+Phone Number: +917382444567
+Message: ⚠️ Alert! Unusual activity detected on campus. Immediate action is required. Check the recorded video for details.Video saved at: C:\Users\Gamana\OneDrive\Documents\Python AIML\CAMERA MONITORING\incident_videos\incident_1774495799.mp4
+--------------------
+Date: 26/3/2026
+Time: 9:1
+Phone Number: +917382444567
+Message: ⚠️ Alert! Unusual activity detected on campus. Immediate action is required. Check the recorded video for details.Video saved at: C:\Users\Gamana\OneDrive\Documents\Python AIML\CAMERA MONITORING\incident_videos\incident_1774495889.mp4
+--------------------
