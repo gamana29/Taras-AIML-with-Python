@@ -49,5 +49,5 @@ disaster_ai/
 - Works with sample data out-of-the-box
 
 ## API Keys Required
-1. [Reddit API](https://www.reddit.com/prefs/apps) - Create "script" app (free)
+1. [Reddit API](https://www.reddit.com/prefs/apps) 
 2. [NewsAPI](https://newsapi.org/)
